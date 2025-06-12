@@ -42,3 +42,12 @@ Generar insights accionables para la empresa
 2. Crea un entorno virtual: `python -m venv env`
 3. Activa el entorno y ejecuta: `pip install -r requirements.txt`
 4. Abre `analisis_ventas.ipynb` en VS Code o Jupyter
+
+## 📁 Datos
+
+Este proyecto incluye los siguientes archivos CSV para facilitar la reproducción:
+
+- `ventas.csv`
+- `clientes.csv`
+- `productos.csv`
+- Estos datos fueron extraídos desde una base de datos SQL Server para efectos de análisis exploratorio y visualización.
